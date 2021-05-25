@@ -1,4 +1,4 @@
-# ASP.NET Core MVC with react components
+﻿# ASP.NET Core MVC with react components
 Sample project with standalone react components based on https://reciosonny.com/how-to-integrate-reactjs-in-existing-asp-net-mvc-app/
 
 - scaffolded standard ASP.NET Core MVC project
